@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Demo
 =======
 AWS CodeDeploy Samples
@@ -22,3 +23,7 @@ License
 These samples and templates are all licensed under Apache 2.0.
 
 >>>>>>> 9cd81d4e7e3b57c7001e9578b48a485f3c45c734
+=======
+# aws_code_deploy_App
+samples of code deploy
+>>>>>>> 7ec1b0889e4c29d6da7a076f6aed0a473a678022
